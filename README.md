@@ -1,0 +1,2 @@
+# SimpleRagApplication
+Simple RAG Application
